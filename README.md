@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sirol 👋
 
-<!--
-**sirol567/sirol567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with 2.8 years of experience in:
 
-Here are some ideas to get you started:
+- Manual Testing
+- Playwright Automation
+- AI-Powered Testing
+- Test Case Design
+- CI/CD Testing
+- Workflow Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### AI-Powered QA Automation Platform
+
+An end-to-end platform that:
+
+- Retrieves Jira requirements
+- Generates Positive, Negative & Edge test cases
+- Extracts selectors using Playwright
+- Generates automation scripts using AI
+- Commits code to GitHub
+- Executes tests through GitHub Actions
+- Generates reports and screenshots
+
+🔗 Repository:
+https://github.com/sirol567/ai-qa-automation-platform
+
+## Tech Stack
+
+- Playwright
+- JavaScript
+- OpenAI
+- Groq
+- Ollama
+- n8n
+- GitHub Actions
+- Jira
+- Google Sheets
